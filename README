@@ -1,0 +1,3 @@
+Semplice programma che avvia un certo numero di thread specificato da riga di comando
+Per compilare: gcc -lpthread main.c -o server
+Per avviarlo: ./server 10
